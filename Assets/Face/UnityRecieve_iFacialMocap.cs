@@ -149,7 +149,7 @@ public class UnityRecieve_iFacialMocap : MonoBehaviour
 //////////////////////////////////////////////////
 // Update custom blendshapes
 //////////////////////////////////////////////////
-                            Debug.Log(objNameList[j]);
+                            // Debug.Log(objNameList[j]);
                             if(objNameList[j] == "eyeBall_L"){
                                 if (strArray2[0].Contains("Position"))
                                 {
