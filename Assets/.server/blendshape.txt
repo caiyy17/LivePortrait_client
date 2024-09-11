@@ -1,0 +1,944 @@
+Frame 0 (Time: 0.00s):
+  EyesRight:
+    eyeSquintRight: 0.50
+    eyeBlinkRight: 0.50
+    eyeWideRight: 0.50
+    eyeLookUpRight: 0.50
+    eyeLookDownRight: 0.50
+    eyeLookOutRight: 0.50
+    eyeLookInRight: 0.50
+  EyesLeft:
+    eyeSquintLeft: 0.50
+    eyeBlinkLeft: 0.50
+    eyeWideLeft: 0.50
+    eyeLookUpLeft: 0.50
+    eyeLookDownLeft: 0.50
+    eyeLookOutLeft: 0.50
+    eyeLookInLeft: 0.50
+  Eyebrows:
+    browDownLeft: 0.50
+    browDownRight: 0.50
+    browInnerUp: 0.50
+    browOuterUpRight: 0.50
+    browOuterUpLeft: 0.50
+  NoseAndCheeks:
+    noseSneerLeft: 0.50
+    noseSneerRight: 0.50
+    cheekSquintLeft: 0.50
+    cheekSquintRight: 0.50
+    cheekPuff: 0.50
+  MouthUpper:
+    mouthUpperUpRight: 0.50
+    mouthUpperUpLeft: 0.50
+    mouthSmileLeft: 0.50
+    mouthSmileRight: 0.50
+    mouthFrownLeft: 0.50
+    mouthFrownRight: 0.50
+  MouthLower:
+    mouthLowerDownLeft: 0.50
+    mouthLowerDownRight: 0.50
+    mouthPressLeft: 0.50
+    mouthPressRight: 0.50
+    mouthPucker: 0.50
+    mouthShrugLower: 0.50
+  MouthWhole:
+    mouthLeft: 0.50
+    mouthRight: 0.50
+    mouthClose: 1.00
+    mouthFunnel: 0.50
+    mouthDimpleLeft: 0.50
+    mouthDimpleRight: 0.50
+    mouthRollUpper: 0.50
+    mouthRollLower: 0.50
+  MouthAuxiliary:
+    mouthStretchLeft: 0.50
+    mouthStretchRight: 0.50
+    mouthShrugUpper: 0.50
+    tongueOut: 0.00
+  Jaw:
+    jawOpen: 0.30
+    jawForward: 0.50
+    jawRight: 0.50
+    jawLeft: 0.50
+
+Frame 10 (Time: 0.33s):
+  EyesRight:
+    eyeSquintRight: 0.50
+    eyeBlinkRight: 0.46
+    eyeWideRight: 0.54
+    eyeLookUpRight: 0.54
+    eyeLookDownRight: 0.50
+    eyeLookOutRight: 0.50
+    eyeLookInRight: 0.50
+  EyesLeft:
+    eyeSquintLeft: 0.50
+    eyeBlinkLeft: 0.46
+    eyeWideLeft: 0.54
+    eyeLookUpLeft: 0.54
+    eyeLookDownLeft: 0.46
+    eyeLookOutLeft: 0.50
+    eyeLookInLeft: 0.50
+  Eyebrows:
+    browDownLeft: 0.46
+    browDownRight: 0.46
+    browInnerUp: 0.54
+    browOuterUpRight: 0.54
+    browOuterUpLeft: 0.54
+  NoseAndCheeks:
+    noseSneerLeft: 0.50
+    noseSneerRight: 0.50
+    cheekSquintLeft: 0.50
+    cheekSquintRight: 0.50
+    cheekPuff: 0.50
+  MouthUpper:
+    mouthUpperUpRight: 0.50
+    mouthUpperUpLeft: 0.50
+    mouthSmileLeft: 0.50
+    mouthSmileRight: 0.50
+    mouthFrownLeft: 0.50
+    mouthFrownRight: 0.50
+  MouthLower:
+    mouthLowerDownLeft: 0.50
+    mouthLowerDownRight: 0.50
+    mouthPressLeft: 0.50
+    mouthPressRight: 0.50
+    mouthPucker: 0.52
+    mouthShrugLower: 0.50
+  MouthWhole:
+    mouthLeft: 0.50
+    mouthRight: 0.50
+    mouthClose: 0.96
+    mouthFunnel: 0.50
+    mouthDimpleLeft: 0.50
+    mouthDimpleRight: 0.50
+    mouthRollUpper: 0.50
+    mouthRollLower: 0.50
+  MouthAuxiliary:
+    mouthStretchLeft: 0.50
+    mouthStretchRight: 0.50
+    mouthShrugUpper: 0.50
+    tongueOut: 0.00
+  Jaw:
+    jawOpen: 0.32
+    jawForward: 0.50
+    jawRight: 0.50
+    jawLeft: 0.50
+
+Frame 20 (Time: 0.67s):
+  EyesRight:
+    eyeSquintRight: 0.50
+    eyeBlinkRight: 0.41
+    eyeWideRight: 0.59
+    eyeLookUpRight: 0.59
+    eyeLookDownRight: 0.50
+    eyeLookOutRight: 0.50
+    eyeLookInRight: 0.50
+  EyesLeft:
+    eyeSquintLeft: 0.50
+    eyeBlinkLeft: 0.41
+    eyeWideLeft: 0.59
+    eyeLookUpLeft: 0.59
+    eyeLookDownLeft: 0.41
+    eyeLookOutLeft: 0.50
+    eyeLookInLeft: 0.50
+  Eyebrows:
+    browDownLeft: 0.41
+    browDownRight: 0.41
+    browInnerUp: 0.59
+    browOuterUpRight: 0.59
+    browOuterUpLeft: 0.59
+  NoseAndCheeks:
+    noseSneerLeft: 0.50
+    noseSneerRight: 0.50
+    cheekSquintLeft: 0.50
+    cheekSquintRight: 0.50
+    cheekPuff: 0.50
+  MouthUpper:
+    mouthUpperUpRight: 0.50
+    mouthUpperUpLeft: 0.50
+    mouthSmileLeft: 0.50
+    mouthSmileRight: 0.50
+    mouthFrownLeft: 0.50
+    mouthFrownRight: 0.50
+  MouthLower:
+    mouthLowerDownLeft: 0.50
+    mouthLowerDownRight: 0.50
+    mouthPressLeft: 0.50
+    mouthPressRight: 0.50
+    mouthPucker: 0.54
+    mouthShrugLower: 0.50
+  MouthWhole:
+    mouthLeft: 0.50
+    mouthRight: 0.50
+    mouthClose: 0.91
+    mouthFunnel: 0.50
+    mouthDimpleLeft: 0.50
+    mouthDimpleRight: 0.50
+    mouthRollUpper: 0.50
+    mouthRollLower: 0.50
+  MouthAuxiliary:
+    mouthStretchLeft: 0.50
+    mouthStretchRight: 0.50
+    mouthShrugUpper: 0.50
+    tongueOut: 0.00
+  Jaw:
+    jawOpen: 0.34
+    jawForward: 0.50
+    jawRight: 0.50
+    jawLeft: 0.50
+
+Frame 30 (Time: 1.00s):
+  EyesRight:
+    eyeSquintRight: 0.50
+    eyeBlinkRight: 0.37
+    eyeWideRight: 0.63
+    eyeLookUpRight: 0.63
+    eyeLookDownRight: 0.50
+    eyeLookOutRight: 0.50
+    eyeLookInRight: 0.50
+  EyesLeft:
+    eyeSquintLeft: 0.50
+    eyeBlinkLeft: 0.37
+    eyeWideLeft: 0.63
+    eyeLookUpLeft: 0.63
+    eyeLookDownLeft: 0.37
+    eyeLookOutLeft: 0.50
+    eyeLookInLeft: 0.50
+  Eyebrows:
+    browDownLeft: 0.37
+    browDownRight: 0.37
+    browInnerUp: 0.63
+    browOuterUpRight: 0.63
+    browOuterUpLeft: 0.63
+  NoseAndCheeks:
+    noseSneerLeft: 0.50
+    noseSneerRight: 0.50
+    cheekSquintLeft: 0.50
+    cheekSquintRight: 0.50
+    cheekPuff: 0.50
+  MouthUpper:
+    mouthUpperUpRight: 0.50
+    mouthUpperUpLeft: 0.50
+    mouthSmileLeft: 0.50
+    mouthSmileRight: 0.50
+    mouthFrownLeft: 0.50
+    mouthFrownRight: 0.50
+  MouthLower:
+    mouthLowerDownLeft: 0.50
+    mouthLowerDownRight: 0.50
+    mouthPressLeft: 0.50
+    mouthPressRight: 0.50
+    mouthPucker: 0.57
+    mouthShrugLower: 0.50
+  MouthWhole:
+    mouthLeft: 0.50
+    mouthRight: 0.50
+    mouthClose: 0.87
+    mouthFunnel: 0.50
+    mouthDimpleLeft: 0.50
+    mouthDimpleRight: 0.50
+    mouthRollUpper: 0.50
+    mouthRollLower: 0.50
+  MouthAuxiliary:
+    mouthStretchLeft: 0.50
+    mouthStretchRight: 0.50
+    mouthShrugUpper: 0.50
+    tongueOut: 0.00
+  Jaw:
+    jawOpen: 0.37
+    jawForward: 0.50
+    jawRight: 0.50
+    jawLeft: 0.50
+
+Frame 40 (Time: 1.33s):
+  EyesRight:
+    eyeSquintRight: 0.50
+    eyeBlinkRight: 0.32
+    eyeWideRight: 0.68
+    eyeLookUpRight: 0.68
+    eyeLookDownRight: 0.50
+    eyeLookOutRight: 0.50
+    eyeLookInRight: 0.50
+  EyesLeft:
+    eyeSquintLeft: 0.50
+    eyeBlinkLeft: 0.32
+    eyeWideLeft: 0.68
+    eyeLookUpLeft: 0.68
+    eyeLookDownLeft: 0.32
+    eyeLookOutLeft: 0.50
+    eyeLookInLeft: 0.50
+  Eyebrows:
+    browDownLeft: 0.32
+    browDownRight: 0.32
+    browInnerUp: 0.68
+    browOuterUpRight: 0.68
+    browOuterUpLeft: 0.68
+  NoseAndCheeks:
+    noseSneerLeft: 0.50
+    noseSneerRight: 0.50
+    cheekSquintLeft: 0.50
+    cheekSquintRight: 0.50
+    cheekPuff: 0.50
+  MouthUpper:
+    mouthUpperUpRight: 0.50
+    mouthUpperUpLeft: 0.50
+    mouthSmileLeft: 0.50
+    mouthSmileRight: 0.50
+    mouthFrownLeft: 0.50
+    mouthFrownRight: 0.50
+  MouthLower:
+    mouthLowerDownLeft: 0.50
+    mouthLowerDownRight: 0.50
+    mouthPressLeft: 0.50
+    mouthPressRight: 0.50
+    mouthPucker: 0.59
+    mouthShrugLower: 0.50
+  MouthWhole:
+    mouthLeft: 0.50
+    mouthRight: 0.50
+    mouthClose: 0.82
+    mouthFunnel: 0.50
+    mouthDimpleLeft: 0.50
+    mouthDimpleRight: 0.50
+    mouthRollUpper: 0.50
+    mouthRollLower: 0.50
+  MouthAuxiliary:
+    mouthStretchLeft: 0.50
+    mouthStretchRight: 0.50
+    mouthShrugUpper: 0.50
+    tongueOut: 0.00
+  Jaw:
+    jawOpen: 0.39
+    jawForward: 0.50
+    jawRight: 0.50
+    jawLeft: 0.50
+
+Frame 50 (Time: 1.67s):
+  EyesRight:
+    eyeSquintRight: 0.48
+    eyeBlinkRight: 0.30
+    eyeWideRight: 0.70
+    eyeLookUpRight: 0.68
+    eyeLookDownRight: 0.50
+    eyeLookOutRight: 0.50
+    eyeLookInRight: 0.52
+  EyesLeft:
+    eyeSquintLeft: 0.48
+    eyeBlinkLeft: 0.30
+    eyeWideLeft: 0.70
+    eyeLookUpLeft: 0.68
+    eyeLookDownLeft: 0.32
+    eyeLookOutLeft: 0.50
+    eyeLookInLeft: 0.52
+  Eyebrows:
+    browDownLeft: 0.28
+    browDownRight: 0.28
+    browInnerUp: 0.73
+    browOuterUpRight: 0.73
+    browOuterUpLeft: 0.73
+  NoseAndCheeks:
+    noseSneerLeft: 0.51
+    noseSneerRight: 0.51
+    cheekSquintLeft: 0.50
+    cheekSquintRight: 0.50
+    cheekPuff: 0.50
+  MouthUpper:
+    mouthUpperUpRight: 0.51
+    mouthUpperUpLeft: 0.51
+    mouthSmileLeft: 0.46
+    mouthSmileRight: 0.46
+    mouthFrownLeft: 0.50
+    mouthFrownRight: 0.50
+  MouthLower:
+    mouthLowerDownLeft: 0.50
+    mouthLowerDownRight: 0.50
+    mouthPressLeft: 0.50
+    mouthPressRight: 0.50
+    mouthPucker: 0.61
+    mouthShrugLower: 0.51
+  MouthWhole:
+    mouthLeft: 0.50
+    mouthRight: 0.50
+    mouthClose: 0.79
+    mouthFunnel: 0.50
+    mouthDimpleLeft: 0.50
+    mouthDimpleRight: 0.50
+    mouthRollUpper: 0.50
+    mouthRollLower: 0.50
+  MouthAuxiliary:
+    mouthStretchLeft: 0.50
+    mouthStretchRight: 0.50
+    mouthShrugUpper: 0.50
+    tongueOut: 0.00
+  Jaw:
+    jawOpen: 0.40
+    jawForward: 0.50
+    jawRight: 0.50
+    jawLeft: 0.50
+
+Frame 60 (Time: 2.00s):
+  EyesRight:
+    eyeSquintRight: 0.43
+    eyeBlinkRight: 0.30
+    eyeWideRight: 0.70
+    eyeLookUpRight: 0.63
+    eyeLookDownRight: 0.50
+    eyeLookOutRight: 0.50
+    eyeLookInRight: 0.57
+  EyesLeft:
+    eyeSquintLeft: 0.43
+    eyeBlinkLeft: 0.30
+    eyeWideLeft: 0.70
+    eyeLookUpLeft: 0.63
+    eyeLookDownLeft: 0.37
+    eyeLookOutLeft: 0.50
+    eyeLookInLeft: 0.57
+  Eyebrows:
+    browDownLeft: 0.23
+    browDownRight: 0.23
+    browInnerUp: 0.80
+    browOuterUpRight: 0.80
+    browOuterUpLeft: 0.80
+  NoseAndCheeks:
+    noseSneerLeft: 0.53
+    noseSneerRight: 0.53
+    cheekSquintLeft: 0.50
+    cheekSquintRight: 0.50
+    cheekPuff: 0.50
+  MouthUpper:
+    mouthUpperUpRight: 0.53
+    mouthUpperUpLeft: 0.53
+    mouthSmileLeft: 0.37
+    mouthSmileRight: 0.37
+    mouthFrownLeft: 0.50
+    mouthFrownRight: 0.50
+  MouthLower:
+    mouthLowerDownLeft: 0.50
+    mouthLowerDownRight: 0.50
+    mouthPressLeft: 0.50
+    mouthPressRight: 0.50
+    mouthPucker: 0.63
+    mouthShrugLower: 0.53
+  MouthWhole:
+    mouthLeft: 0.50
+    mouthRight: 0.50
+    mouthClose: 0.77
+    mouthFunnel: 0.50
+    mouthDimpleLeft: 0.50
+    mouthDimpleRight: 0.50
+    mouthRollUpper: 0.50
+    mouthRollLower: 0.50
+  MouthAuxiliary:
+    mouthStretchLeft: 0.50
+    mouthStretchRight: 0.50
+    mouthShrugUpper: 0.50
+    tongueOut: 0.00
+  Jaw:
+    jawOpen: 0.40
+    jawForward: 0.50
+    jawRight: 0.50
+    jawLeft: 0.50
+
+Frame 70 (Time: 2.33s):
+  EyesRight:
+    eyeSquintRight: 0.39
+    eyeBlinkRight: 0.30
+    eyeWideRight: 0.70
+    eyeLookUpRight: 0.59
+    eyeLookDownRight: 0.50
+    eyeLookOutRight: 0.50
+    eyeLookInRight: 0.61
+  EyesLeft:
+    eyeSquintLeft: 0.39
+    eyeBlinkLeft: 0.30
+    eyeWideLeft: 0.70
+    eyeLookUpLeft: 0.59
+    eyeLookDownLeft: 0.41
+    eyeLookOutLeft: 0.50
+    eyeLookInLeft: 0.61
+  Eyebrows:
+    browDownLeft: 0.19
+    browDownRight: 0.19
+    browInnerUp: 0.87
+    browOuterUpRight: 0.87
+    browOuterUpLeft: 0.87
+  NoseAndCheeks:
+    noseSneerLeft: 0.56
+    noseSneerRight: 0.56
+    cheekSquintLeft: 0.50
+    cheekSquintRight: 0.50
+    cheekPuff: 0.50
+  MouthUpper:
+    mouthUpperUpRight: 0.56
+    mouthUpperUpLeft: 0.56
+    mouthSmileLeft: 0.28
+    mouthSmileRight: 0.28
+    mouthFrownLeft: 0.50
+    mouthFrownRight: 0.50
+  MouthLower:
+    mouthLowerDownLeft: 0.50
+    mouthLowerDownRight: 0.50
+    mouthPressLeft: 0.50
+    mouthPressRight: 0.50
+    mouthPucker: 0.66
+    mouthShrugLower: 0.56
+  MouthWhole:
+    mouthLeft: 0.50
+    mouthRight: 0.50
+    mouthClose: 0.74
+    mouthFunnel: 0.50
+    mouthDimpleLeft: 0.50
+    mouthDimpleRight: 0.50
+    mouthRollUpper: 0.50
+    mouthRollLower: 0.50
+  MouthAuxiliary:
+    mouthStretchLeft: 0.50
+    mouthStretchRight: 0.50
+    mouthShrugUpper: 0.50
+    tongueOut: 0.00
+  Jaw:
+    jawOpen: 0.40
+    jawForward: 0.50
+    jawRight: 0.50
+    jawLeft: 0.50
+
+Frame 80 (Time: 2.67s):
+  EyesRight:
+    eyeSquintRight: 0.34
+    eyeBlinkRight: 0.30
+    eyeWideRight: 0.70
+    eyeLookUpRight: 0.54
+    eyeLookDownRight: 0.50
+    eyeLookOutRight: 0.50
+    eyeLookInRight: 0.66
+  EyesLeft:
+    eyeSquintLeft: 0.34
+    eyeBlinkLeft: 0.30
+    eyeWideLeft: 0.70
+    eyeLookUpLeft: 0.54
+    eyeLookDownLeft: 0.46
+    eyeLookOutLeft: 0.50
+    eyeLookInLeft: 0.66
+  Eyebrows:
+    browDownLeft: 0.14
+    browDownRight: 0.14
+    browInnerUp: 0.93
+    browOuterUpRight: 0.93
+    browOuterUpLeft: 0.93
+  NoseAndCheeks:
+    noseSneerLeft: 0.58
+    noseSneerRight: 0.58
+    cheekSquintLeft: 0.50
+    cheekSquintRight: 0.50
+    cheekPuff: 0.50
+  MouthUpper:
+    mouthUpperUpRight: 0.58
+    mouthUpperUpLeft: 0.58
+    mouthSmileLeft: 0.19
+    mouthSmileRight: 0.19
+    mouthFrownLeft: 0.50
+    mouthFrownRight: 0.50
+  MouthLower:
+    mouthLowerDownLeft: 0.50
+    mouthLowerDownRight: 0.50
+    mouthPressLeft: 0.50
+    mouthPressRight: 0.50
+    mouthPucker: 0.68
+    mouthShrugLower: 0.58
+  MouthWhole:
+    mouthLeft: 0.50
+    mouthRight: 0.50
+    mouthClose: 0.72
+    mouthFunnel: 0.50
+    mouthDimpleLeft: 0.50
+    mouthDimpleRight: 0.50
+    mouthRollUpper: 0.50
+    mouthRollLower: 0.50
+  MouthAuxiliary:
+    mouthStretchLeft: 0.50
+    mouthStretchRight: 0.50
+    mouthShrugUpper: 0.50
+    tongueOut: 0.00
+  Jaw:
+    jawOpen: 0.40
+    jawForward: 0.50
+    jawRight: 0.50
+    jawLeft: 0.50
+
+Frame 90 (Time: 3.00s):
+  EyesRight:
+    eyeSquintRight: 0.30
+    eyeBlinkRight: 0.30
+    eyeWideRight: 0.70
+    eyeLookUpRight: 0.50
+    eyeLookDownRight: 0.50
+    eyeLookOutRight: 0.50
+    eyeLookInRight: 0.70
+  EyesLeft:
+    eyeSquintLeft: 0.30
+    eyeBlinkLeft: 0.30
+    eyeWideLeft: 0.70
+    eyeLookUpLeft: 0.50
+    eyeLookDownLeft: 0.50
+    eyeLookOutLeft: 0.50
+    eyeLookInLeft: 0.70
+  Eyebrows:
+    browDownLeft: 0.10
+    browDownRight: 0.10
+    browInnerUp: 1.00
+    browOuterUpRight: 1.00
+    browOuterUpLeft: 1.00
+  NoseAndCheeks:
+    noseSneerLeft: 0.60
+    noseSneerRight: 0.60
+    cheekSquintLeft: 0.50
+    cheekSquintRight: 0.50
+    cheekPuff: 0.50
+  MouthUpper:
+    mouthUpperUpRight: 0.60
+    mouthUpperUpLeft: 0.60
+    mouthSmileLeft: 0.10
+    mouthSmileRight: 0.10
+    mouthFrownLeft: 0.50
+    mouthFrownRight: 0.50
+  MouthLower:
+    mouthLowerDownLeft: 0.50
+    mouthLowerDownRight: 0.50
+    mouthPressLeft: 0.50
+    mouthPressRight: 0.50
+    mouthPucker: 0.70
+    mouthShrugLower: 0.60
+  MouthWhole:
+    mouthLeft: 0.50
+    mouthRight: 0.50
+    mouthClose: 0.70
+    mouthFunnel: 0.50
+    mouthDimpleLeft: 0.50
+    mouthDimpleRight: 0.50
+    mouthRollUpper: 0.50
+    mouthRollLower: 0.50
+  MouthAuxiliary:
+    mouthStretchLeft: 0.50
+    mouthStretchRight: 0.50
+    mouthShrugUpper: 0.50
+    tongueOut: 0.00
+  Jaw:
+    jawOpen: 0.40
+    jawForward: 0.50
+    jawRight: 0.50
+    jawLeft: 0.50
+
+Frame 100 (Time: 3.33s):
+  EyesRight:
+    eyeSquintRight: 0.30
+    eyeBlinkRight: 0.34
+    eyeWideRight: 0.72
+    eyeLookUpRight: 0.52
+    eyeLookDownRight: 0.50
+    eyeLookOutRight: 0.50
+    eyeLookInRight: 0.66
+  EyesLeft:
+    eyeSquintLeft: 0.30
+    eyeBlinkLeft: 0.34
+    eyeWideLeft: 0.72
+    eyeLookUpLeft: 0.52
+    eyeLookDownLeft: 0.50
+    eyeLookOutLeft: 0.50
+    eyeLookInLeft: 0.66
+  Eyebrows:
+    browDownLeft: 0.23
+    browDownRight: 0.23
+    browInnerUp: 0.87
+    browOuterUpRight: 0.93
+    browOuterUpLeft: 0.93
+  NoseAndCheeks:
+    noseSneerLeft: 0.53
+    noseSneerRight: 0.53
+    cheekSquintLeft: 0.57
+    cheekSquintRight: 0.57
+    cheekPuff: 0.57
+  MouthUpper:
+    mouthUpperUpRight: 0.53
+    mouthUpperUpLeft: 0.53
+    mouthSmileLeft: 0.33
+    mouthSmileRight: 0.33
+    mouthFrownLeft: 0.43
+    mouthFrownRight: 0.43
+  MouthLower:
+    mouthLowerDownLeft: 0.43
+    mouthLowerDownRight: 0.43
+    mouthPressLeft: 0.50
+    mouthPressRight: 0.50
+    mouthPucker: 0.73
+    mouthShrugLower: 0.63
+  MouthWhole:
+    mouthLeft: 0.57
+    mouthRight: 0.57
+    mouthClose: 0.61
+    mouthFunnel: 0.50
+    mouthDimpleLeft: 0.57
+    mouthDimpleRight: 0.57
+    mouthRollUpper: 0.50
+    mouthRollLower: 0.50
+  MouthAuxiliary:
+    mouthStretchLeft: 0.50
+    mouthStretchRight: 0.50
+    mouthShrugUpper: 0.50
+    tongueOut: 0.00
+  Jaw:
+    jawOpen: 0.44
+    jawForward: 0.48
+    jawRight: 0.50
+    jawLeft: 0.50
+
+Frame 110 (Time: 3.67s):
+  EyesRight:
+    eyeSquintRight: 0.30
+    eyeBlinkRight: 0.39
+    eyeWideRight: 0.74
+    eyeLookUpRight: 0.54
+    eyeLookDownRight: 0.50
+    eyeLookOutRight: 0.50
+    eyeLookInRight: 0.61
+  EyesLeft:
+    eyeSquintLeft: 0.30
+    eyeBlinkLeft: 0.39
+    eyeWideLeft: 0.74
+    eyeLookUpLeft: 0.54
+    eyeLookDownLeft: 0.50
+    eyeLookOutLeft: 0.50
+    eyeLookInLeft: 0.61
+  Eyebrows:
+    browDownLeft: 0.37
+    browDownRight: 0.37
+    browInnerUp: 0.73
+    browOuterUpRight: 0.87
+    browOuterUpLeft: 0.87
+  NoseAndCheeks:
+    noseSneerLeft: 0.47
+    noseSneerRight: 0.47
+    cheekSquintLeft: 0.63
+    cheekSquintRight: 0.63
+    cheekPuff: 0.63
+  MouthUpper:
+    mouthUpperUpRight: 0.47
+    mouthUpperUpLeft: 0.47
+    mouthSmileLeft: 0.57
+    mouthSmileRight: 0.57
+    mouthFrownLeft: 0.37
+    mouthFrownRight: 0.37
+  MouthLower:
+    mouthLowerDownLeft: 0.37
+    mouthLowerDownRight: 0.37
+    mouthPressLeft: 0.50
+    mouthPressRight: 0.50
+    mouthPucker: 0.77
+    mouthShrugLower: 0.67
+  MouthWhole:
+    mouthLeft: 0.63
+    mouthRight: 0.63
+    mouthClose: 0.52
+    mouthFunnel: 0.50
+    mouthDimpleLeft: 0.63
+    mouthDimpleRight: 0.63
+    mouthRollUpper: 0.50
+    mouthRollLower: 0.50
+  MouthAuxiliary:
+    mouthStretchLeft: 0.50
+    mouthStretchRight: 0.50
+    mouthShrugUpper: 0.50
+    tongueOut: 0.00
+  Jaw:
+    jawOpen: 0.49
+    jawForward: 0.46
+    jawRight: 0.50
+    jawLeft: 0.50
+
+Frame 120 (Time: 4.00s):
+  EyesRight:
+    eyeSquintRight: 0.30
+    eyeBlinkRight: 0.43
+    eyeWideRight: 0.77
+    eyeLookUpRight: 0.57
+    eyeLookDownRight: 0.50
+    eyeLookOutRight: 0.50
+    eyeLookInRight: 0.57
+  EyesLeft:
+    eyeSquintLeft: 0.30
+    eyeBlinkLeft: 0.43
+    eyeWideLeft: 0.77
+    eyeLookUpLeft: 0.57
+    eyeLookDownLeft: 0.50
+    eyeLookOutLeft: 0.50
+    eyeLookInLeft: 0.57
+  Eyebrows:
+    browDownLeft: 0.50
+    browDownRight: 0.50
+    browInnerUp: 0.60
+    browOuterUpRight: 0.80
+    browOuterUpLeft: 0.80
+  NoseAndCheeks:
+    noseSneerLeft: 0.40
+    noseSneerRight: 0.40
+    cheekSquintLeft: 0.70
+    cheekSquintRight: 0.70
+    cheekPuff: 0.70
+  MouthUpper:
+    mouthUpperUpRight: 0.40
+    mouthUpperUpLeft: 0.40
+    mouthSmileLeft: 0.80
+    mouthSmileRight: 0.80
+    mouthFrownLeft: 0.30
+    mouthFrownRight: 0.30
+  MouthLower:
+    mouthLowerDownLeft: 0.30
+    mouthLowerDownRight: 0.30
+    mouthPressLeft: 0.50
+    mouthPressRight: 0.50
+    mouthPucker: 0.80
+    mouthShrugLower: 0.70
+  MouthWhole:
+    mouthLeft: 0.70
+    mouthRight: 0.70
+    mouthClose: 0.43
+    mouthFunnel: 0.50
+    mouthDimpleLeft: 0.70
+    mouthDimpleRight: 0.70
+    mouthRollUpper: 0.50
+    mouthRollLower: 0.50
+  MouthAuxiliary:
+    mouthStretchLeft: 0.50
+    mouthStretchRight: 0.50
+    mouthShrugUpper: 0.50
+    tongueOut: 0.00
+  Jaw:
+    jawOpen: 0.53
+    jawForward: 0.43
+    jawRight: 0.50
+    jawLeft: 0.50
+
+Frame 130 (Time: 4.33s):
+  EyesRight:
+    eyeSquintRight: 0.30
+    eyeBlinkRight: 0.48
+    eyeWideRight: 0.79
+    eyeLookUpRight: 0.59
+    eyeLookDownRight: 0.50
+    eyeLookOutRight: 0.50
+    eyeLookInRight: 0.52
+  EyesLeft:
+    eyeSquintLeft: 0.30
+    eyeBlinkLeft: 0.48
+    eyeWideLeft: 0.79
+    eyeLookUpLeft: 0.59
+    eyeLookDownLeft: 0.50
+    eyeLookOutLeft: 0.50
+    eyeLookInLeft: 0.52
+  Eyebrows:
+    browDownLeft: 0.50
+    browDownRight: 0.50
+    browInnerUp: 0.57
+    browOuterUpRight: 0.70
+    browOuterUpLeft: 0.70
+  NoseAndCheeks:
+    noseSneerLeft: 0.43
+    noseSneerRight: 0.43
+    cheekSquintLeft: 0.63
+    cheekSquintRight: 0.63
+    cheekPuff: 0.63
+  MouthUpper:
+    mouthUpperUpRight: 0.43
+    mouthUpperUpLeft: 0.43
+    mouthSmileLeft: 0.87
+    mouthSmileRight: 0.87
+    mouthFrownLeft: 0.30
+    mouthFrownRight: 0.30
+  MouthLower:
+    mouthLowerDownLeft: 0.27
+    mouthLowerDownRight: 0.27
+    mouthPressLeft: 0.50
+    mouthPressRight: 0.50
+    mouthPucker: 0.70
+    mouthShrugLower: 0.63
+  MouthWhole:
+    mouthLeft: 0.77
+    mouthRight: 0.77
+    mouthClose: 0.34
+    mouthFunnel: 0.50
+    mouthDimpleLeft: 0.77
+    mouthDimpleRight: 0.77
+    mouthRollUpper: 0.50
+    mouthRollLower: 0.50
+  MouthAuxiliary:
+    mouthStretchLeft: 0.50
+    mouthStretchRight: 0.50
+    mouthShrugUpper: 0.50
+    tongueOut: 0.07
+  Jaw:
+    jawOpen: 0.58
+    jawForward: 0.41
+    jawRight: 0.50
+    jawLeft: 0.50
+
+Frame 140 (Time: 4.67s):
+  EyesRight:
+    eyeSquintRight: 0.37
+    eyeBlinkRight: 0.50
+    eyeWideRight: 0.77
+    eyeLookUpRight: 0.57
+    eyeLookDownRight: 0.50
+    eyeLookOutRight: 0.50
+    eyeLookInRight: 0.50
+  EyesLeft:
+    eyeSquintLeft: 0.37
+    eyeBlinkLeft: 0.50
+    eyeWideLeft: 0.77
+    eyeLookUpLeft: 0.57
+    eyeLookDownLeft: 0.50
+    eyeLookOutLeft: 0.50
+    eyeLookInLeft: 0.50
+  Eyebrows:
+    browDownLeft: 0.50
+    browDownRight: 0.50
+    browInnerUp: 0.53
+    browOuterUpRight: 0.60
+    browOuterUpLeft: 0.60
+  NoseAndCheeks:
+    noseSneerLeft: 0.47
+    noseSneerRight: 0.47
+    cheekSquintLeft: 0.57
+    cheekSquintRight: 0.57
+    cheekPuff: 0.57
+  MouthUpper:
+    mouthUpperUpRight: 0.47
+    mouthUpperUpLeft: 0.47
+    mouthSmileLeft: 0.93
+    mouthSmileRight: 0.93
+    mouthFrownLeft: 0.30
+    mouthFrownRight: 0.30
+  MouthLower:
+    mouthLowerDownLeft: 0.23
+    mouthLowerDownRight: 0.23
+    mouthPressLeft: 0.50
+    mouthPressRight: 0.50
+    mouthPucker: 0.60
+    mouthShrugLower: 0.57
+  MouthWhole:
+    mouthLeft: 0.83
+    mouthRight: 0.83
+    mouthClose: 0.27
+    mouthFunnel: 0.50
+    mouthDimpleLeft: 0.87
+    mouthDimpleRight: 0.87
+    mouthRollUpper: 0.50
+    mouthRollLower: 0.50
+  MouthAuxiliary:
+    mouthStretchLeft: 0.50
+    mouthStretchRight: 0.50
+    mouthShrugUpper: 0.50
+    tongueOut: 0.13
+  Jaw:
+    jawOpen: 0.57
+    jawForward: 0.40
+    jawRight: 0.50
+    jawLeft: 0.50

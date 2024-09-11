@@ -454,6 +454,11 @@ MonoBehaviour:
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
   m_SoftShadowQuality: 1
+--- !u!137 &692415901 stripped
+SkinnedMeshRenderer:
+  m_CorrespondingSourceObject: {fileID: -720298726770719842, guid: 32d3818c0a607a6469cc50d8981031a6, type: 3}
+  m_PrefabInstance: {fileID: 733832259}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &733832259
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -821,6 +826,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 32d3818c0a607a6469cc50d8981031a6, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1963690391}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 32d3818c0a607a6469cc50d8981031a6, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1963690393}
   m_SourcePrefab: {fileID: 100100000, guid: 32d3818c0a607a6469cc50d8981031a6, type: 3}
 --- !u!1 &832575517
 GameObject:
@@ -1194,12 +1202,79 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1963690389}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b8cb9e53faeffd14d9d7e53ca1dcf356, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   LOCAL_PORT: 50003
+--- !u!114 &1963690393
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1963690389}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ba221d74d670c24593c00975cd086ea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skinnedMeshRenderer: {fileID: 692415901}
+  blendShapeNames:
+  - eyeSquintRight
+  - eyeBlinkRight
+  - eyeWideRight
+  - eyeLookUpRight
+  - eyeLookDownRight
+  - eyeLookOutRight
+  - eyeLookInRight
+  - eyeSquintLeft
+  - eyeBlinkLeft
+  - eyeWideLeft
+  - eyeLookUpLeft
+  - eyeLookDownLeft
+  - eyeLookOutLeft
+  - eyeLookInLeft
+  - browDownLeft
+  - browDownRight
+  - browInnerUp
+  - browOuterUpRight
+  - browOuterUpLeft
+  - noseSneerLeft
+  - noseSneerRight
+  - cheekSquintLeft
+  - cheekSquintRight
+  - cheekPuff
+  - mouthUpperUpRight
+  - mouthUpperUpLeft
+  - mouthSmileLeft
+  - mouthSmileRight
+  - mouthFrownLeft
+  - mouthFrownRight
+  - mouthLowerDownLeft
+  - mouthLowerDownRight
+  - mouthPressLeft
+  - mouthPressRight
+  - mouthPucker
+  - mouthShrugLower
+  - mouthLeft
+  - mouthRight
+  - mouthClose
+  - mouthFunnel
+  - mouthDimpleLeft
+  - mouthDimpleRight
+  - mouthRollUpper
+  - mouthRollLower
+  - mouthStretchLeft
+  - mouthStretchRight
+  - mouthShrugUpper
+  - tongueOut
+  - jawOpen
+  - jawForward
+  - jawRight
+  - jawLeft
+  jsonFile: {fileID: 4900000, guid: bf94c458cc7008246b9b40a0a72e178e, type: 3}
 --- !u!1 &2050403351
 GameObject:
   m_ObjectHideFlags: 0
