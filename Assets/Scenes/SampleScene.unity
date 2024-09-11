@@ -1215,7 +1215,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1963690389}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0ba221d74d670c24593c00975cd086ea, type: 3}
   m_Name: 
@@ -1274,7 +1274,7 @@ MonoBehaviour:
   - jawForward
   - jawRight
   - jawLeft
-  jsonFile: {fileID: 4900000, guid: bf94c458cc7008246b9b40a0a72e178e, type: 3}
+  jsonFile: {fileID: 4900000, guid: dfb55d2ce93b0f541a8a92cb88963196, type: 3}
 --- !u!1 &2050403351
 GameObject:
   m_ObjectHideFlags: 0

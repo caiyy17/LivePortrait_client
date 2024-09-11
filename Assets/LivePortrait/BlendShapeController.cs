@@ -70,7 +70,7 @@ public class BlendShapeController : MonoBehaviour
     // 文件路径
     public TextAsset jsonFile;
 
-    void Start()
+    void Update()
     {
         // 读取JSON并解析
         string jsonData = jsonFile.text;
