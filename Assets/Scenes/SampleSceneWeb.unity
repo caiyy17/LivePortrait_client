@@ -42,7 +42,8 @@ RenderSettings:
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
-  serializedVersion: 12
+  serializedVersion: 13
+  m_BakeOnSceneLoad: 0
   m_GISettings:
     serializedVersion: 2
     m_BounceScale: 1
@@ -303,6 +304,7 @@ MonoBehaviour:
   m_DeselectOnBackgroundClick: 1
   m_PointerBehavior: 0
   m_CursorLockBehavior: 0
+  m_ScrollDeltaPerTick: 6
 --- !u!114 &398761724
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1229,7 +1231,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e9c7e0c6ca4a0984b840ede513fd084e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serverUrl: 10.81.7.247:5000
   renderTexture: {fileID: 8400000, guid: e2cbc9192b561fb45aace5066f560ee1, type: 2}
+  outTexture: {fileID: 0}
   rawImage: {fileID: 1629944592}
   fpsDisplay: {fileID: 1774685926}
 --- !u!4 &2050403353

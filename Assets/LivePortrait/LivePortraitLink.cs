@@ -17,7 +17,8 @@ public class LivePortraitLink : MonoBehaviour
 
     private bool isWaitingForResponse = false;
     private bool isApplicationQuitting = false;
-    
+
+    public String serverUrl = "127.0.0.1:5000";
     public RenderTexture renderTexture;
     public RenderTexture outTexture;
     public RawImage rawImage;
@@ -29,7 +30,7 @@ public class LivePortraitLink : MonoBehaviour
         webSocket = new ClientWebSocket();
         cts = new CancellationTokenSource();
 
-        await webSocket.ConnectAsync(new Uri("ws://127.0.0.1:5000/ws"), cts.Token);
+        await webSocket.ConnectAsync(new Uri("ws://" + serverUrl + "/ws"), cts.Token);
         StartCoroutine(CaptureAndSendRoutine());
         StartReceiving();
     }
@@ -175,7 +176,7 @@ public class LivePortraitLink : MonoBehaviour
         WWWForm form = new WWWForm();
         form.AddBinaryData("file", imageBytes, "screenshot.png", "image/jpeg");
 
-        using (UnityWebRequest www = UnityWebRequest.Post("http://127.0.0.1:5000/init", form))
+        using (UnityWebRequest www = UnityWebRequest.Post("http://" + serverUrl + "/init", form))
         {
             yield return www.SendWebRequest();
 
@@ -194,8 +195,8 @@ public class LivePortraitLink : MonoBehaviour
     {
         WWWForm form = new WWWForm();
         form.AddBinaryData("file", imageBytes, "screenshot.png", "image/jpeg");
-    
-        using (UnityWebRequest www = UnityWebRequest.Post("http://127.0.0.1:5000/process", form))
+
+        using (UnityWebRequest www = UnityWebRequest.Post("http://" + serverUrl + "/process", form))
         {
             yield return www.SendWebRequest();
     
